@@ -1,4 +1,4 @@
-# MPRTO
+# MP RTO
 You can find out MPRTO number plate details of any vehicle FROM MP RTO With this website. Here you will get all vehicle details of MP, you just have to enter number plate details. MP is from Madhya Pradesh state.
 [MP 01](https://rto.trending-1.com/mp-01/)
 [MP 02](https://rto.trending-1.com/mp-02-rto/)
